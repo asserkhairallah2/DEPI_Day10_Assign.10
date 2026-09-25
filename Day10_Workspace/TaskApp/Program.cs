@@ -7,26 +7,26 @@ namespace TaskApp
     {
         static void Main(string[] args)
         {
-            RunTask01();
-            RunTask02();
-            RunTask03();
-            RunTask04();
-            RunTask05();
-            RunTask06();
-            RunTask07();
-            RunTask08();
-            RunTask09();
-            RunTask10();
-            RunTask11();
-            RunTask12();
-            RunTask13();
-            RunTask14();
-            RunTask15();
-            RunTask16();
-            RunTask17();
-            RunTask18();
-            RunTask19();
-            RunTask20();
+            // RunTask01();
+            // RunTask02();
+            // RunTask03();
+            // RunTask04();
+            // RunTask05();
+            // RunTask06();
+            // RunTask07();
+            // RunTask08();
+            // RunTask09();
+            // RunTask10();
+            // RunTask11();
+            // RunTask12();
+            // RunTask13();
+            // RunTask14();
+            // RunTask15();
+            // RunTask16();
+            // RunTask17();
+            // RunTask18();
+            // RunTask19();
+            // RunTask20();
         }
 
         #region Task01
